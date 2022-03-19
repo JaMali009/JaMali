@@ -1,6 +1,6 @@
-#Script Given By JaMaLi
+#Script Given By Jamali
 #Script Is Given For Educational Purpose
-#Script Edited By JaMaLi
+#Script Edited By Jamali
 #Utf-8 python 
 
 try:
@@ -46,8 +46,8 @@ logo = """
 /\__/ / (_| | |  | | (_| | |___| |
 \____/ \__,_\_|  |_/\__,_\_____/_|   
 \n\033[0m----------------------------------
-\033[1;92mAuthor \033[1;93m: SJ.Baloch
-\033[1;92mFb \033[1;93m: SJ.Baloch
+\033[1;92mAuthor \033[1;93m: SJ
+\033[1;92mFb \033[1;93m: SJ
 \033[1;92mDisclaimer \033[1;93m: Its For Educational Purpose
 \033[0m----------------------------------
 
